@@ -12,8 +12,10 @@
   "dependencies": {
     "async-validator": "^1.11.5",
     "core-js": "^3.6.5",
+    "echarts": "^4.9.0",
     "element-ui": "^2.15.3",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-echarts": "^4.1.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
